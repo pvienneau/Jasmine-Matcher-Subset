@@ -1,0 +1,12 @@
+{
+  "name": "jasmine-matcher-subset",
+  "version": "0.0.1",
+  "description": "A Jasmine matcher that will evaluation a data structure against an expected subset\"",
+  "main": "index.js",
+  "repository": "https://github.com/pvienneau/Jasmine-Matcher-Subset.git",
+  "author": "Patrick Vienneau <pvien027@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
